@@ -1,2 +1,0 @@
-# PreFormattedInput
-Created with CodeSandbox
